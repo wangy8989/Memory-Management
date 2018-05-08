@@ -1,6 +1,8 @@
 # Memory-Management
 Memory management project in C
+
 Yicheng Wang & Yuhao Wang
+
 3/2/2017
 
 Yuhao Wang was responsible for getmem.c, .gitignore and Makefile. Yicheng Wang was responsible for freemem.c, mem.h, mem_utils.c, mem_impl.h, get_mem_stats.c, print_heap.c. Then, Yuhao Wang and Yicheng Wang worked on bench.c together. Later, we tested the program and fixed bugs together. At last, Yuhao Wang fixed all format issues and added comments using clint.py, and Yicheng Wang wrote README file.
